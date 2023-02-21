@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq_hw_order", "linq_hw_order\linq_hw_order.csproj", "{394EC5A0-DA2F-4A9F-A822-12E1C62298DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "linq_hw_oddeven", "linq_hw_oddeven\linq_hw_oddeven.csproj", "{B1022CCD-C80C-499D-90AA-E6E4AC3DEAFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{394EC5A0-DA2F-4A9F-A822-12E1C62298DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394EC5A0-DA2F-4A9F-A822-12E1C62298DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394EC5A0-DA2F-4A9F-A822-12E1C62298DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394EC5A0-DA2F-4A9F-A822-12E1C62298DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1022CCD-C80C-499D-90AA-E6E4AC3DEAFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1022CCD-C80C-499D-90AA-E6E4AC3DEAFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1022CCD-C80C-499D-90AA-E6E4AC3DEAFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1022CCD-C80C-499D-90AA-E6E4AC3DEAFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {643F67F6-3388-4E40-A7C4-C7C233F2808A}
+	EndGlobalSection
+EndGlobal
